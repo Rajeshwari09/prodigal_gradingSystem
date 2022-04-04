@@ -1,0 +1,13 @@
+{
+  object: 'standard_campaign',
+  self: '/v2/campaigns/standard/627259',
+  id: 627259,
+  advertiser: 171500,
+  name: '2ndFeb_testing',
+  roadblock_tags: null,
+  flexible_type: 0,
+  contract: null,
+  metadata: {}
+}
+
+
